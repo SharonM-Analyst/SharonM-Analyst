@@ -9,6 +9,6 @@
   ##### GitHub:
 
 #### Fun fact:
-  - I enjoy turning raw data into meaningful insights
-  - I love code debugging and coding
+ ##### - I enjoy turning raw data into meaningful insights
+ ##### - I love code debugging and coding
 
