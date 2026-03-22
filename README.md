@@ -6,7 +6,7 @@
 #### How to reach me:
   ##### Email: smathebula074@gmail.com
   ##### LinkedIn: linkedin.com/in/sharonmathebula
-  ##### GitHub: github.com/SharonM-Analyst
+  ##### GitHub: http://github.com/SharonM-Analyst
 
 #### Fun fact:
  ##### - I enjoy turning raw data into meaningful insights
