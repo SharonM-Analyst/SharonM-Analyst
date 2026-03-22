@@ -5,7 +5,7 @@
 #### I’m looking to collaborate on data analytics and machine learning projects.
 #### How to reach me:
   ##### Email: smathebula074@gmail.com
-  ##### LinkedIn: linkedin.com/in/sharonmathebula
+  ##### LinkedIn: htt://linkedin.com/in/sharonmathebula
   ##### GitHub: http://github.com/SharonM-Analyst
 
 #### Fun fact:
