@@ -4,7 +4,7 @@
 #### I'm currently working on bright Coffee shop Exploratory data analysisand building automated dashboards and sales forecasting model.
 #### I’m looking to collaborate on data analytics and machine learning projects.
 #### How to reach me:
-  ##### Email:smathebula074@gmail.com
+  ##### Email: smathebula074@gmail.com
   ##### LinkedIn:
   ##### GitHub:
 
